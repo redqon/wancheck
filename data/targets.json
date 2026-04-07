@@ -1,5 +1,4 @@
 [
-  { "name": "Dodo IS",         "host": "app.dodois.io", "url": "https://app.dodois.io/", "on": true },
   { "name": "Anrera Tech",     "host": "anrera.tech",   "url": "https://anrera.tech/",   "on": true },
   { "name": "Яндекс",         "host": "ya.ru",         "url": "https://ya.ru",          "on": true, "whitelist": true },
   { "name": "ВКонтакте",      "host": "vk.com",        "url": "https://vk.com",         "on": true, "whitelist": true },
